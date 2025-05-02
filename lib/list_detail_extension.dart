@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:furibase/hooks/classes/AppExtension.dart';
-import 'package:furibase/extensions/list_detail_extension/lib/pustaka_detail_screen.dart'
+import 'package:list_detail_extension/AppExtension.dart';
+import 'package:list_detail_extension/pustaka_detail_screen.dart'
     deferred as detail_screen;
 
 class ListDetailExtension implements AppExtension {
