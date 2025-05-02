@@ -1,6 +1,8 @@
 name: list_detail_extension
 description: Detail page extension
 version: 0.0.1
+environment:
+  sdk: '>=3.7.0 <4.0.0'
 dependencies:
   flutter:
     sdk: flutter
